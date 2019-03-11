@@ -1,0 +1,15 @@
+<!--
+  ~ Copyright (c) 2017. This code has been developed by Fabio Ciravegna, The University of Sheffield. All rights reserved. No part of this code can be used without the explicit written permission by the author
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="oak.shef.ac.uk.photomanager.ShowImageActivity">
+
+    <item android:id="@+id/detail"
+        android:title="Detail"
+        android:orderInCategory="80"
+        app:showAsAction="ifRoom" />
+
+</menu>

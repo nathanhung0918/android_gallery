@@ -1,0 +1,317 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:6:1-43:12
+INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:6:1-43:12
+INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:6:1-43:12
+INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:6:1-43:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/54fe9093935db485eb30ba9e018639f0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/d0908fab66fc56ad96caf647b35b9019/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6a08ac8d09ce3f8118bf6ae6e21bce51/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/4a6c67bffa3bb1a9a42909a6b7569734/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/d70485e21299b74477a3823fab5c0fb0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/5c57a0ccc1bf274a0ad274af74e1135e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/183b686b2a81a5c7fdc5ddffcfb7897d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/152416d703ec1dd2ddb8f04702096a75/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.jkwiecien:EasyImage:2.0.3] /Users/nathan/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/ada7d09e33cc733e520bfcc80cb8a827/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7ce5bc2b125f3df569e24d134e089aed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nathan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/db8685efc35cb1a2520f3d2f39944bdb/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0.aar/af7793ca518825bcad7684b8015c2ceb/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/192b795f9dbd138e32bb908a2d7ab5c6/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/04d4cfc749d9456db00e257cc02c4612/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/cf7e00532ee736a7e611cd45683ad4b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a61fce41d3a42a9cf146dd9728aec33a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4ac5384f3dd326b29ce3affa1cf9baaf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/07c9b35f30028cba1dc58fbadd67a06e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1d10916c8835bf392b8bdd79774332db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0181327c2cf4b6f497cd1ad145eec694/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/129dc484670e938fee2d3aea15f4a527/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f6a6ae2d9a093152234e3937accc6f55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3abe9915d20b67bf382f72cf96577f2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d4dbc659577beb25161ae47d658ee3e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/df6cfc9012902c88b37cd26175d09b73/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bd434101141764716d1e94c61b0c87ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e6774f7a4b4058f0423a0c21d7ea874a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/45faae1d2a135acd81f8aa20fea1f46d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bb898df6651c7b427a171ca9309e6a06/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e40ed3cd42541616cdcb62b8198f6286/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/b64319e6e882d31d0f00276c191026c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/33e4bdfe023835d80861f0c4a399865a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43836993978b32c8633f748793738726/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9364311d76c91def12f6eb105e551d78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/08908df0edba0600312eebd38a3bd38e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/46993d352a70e2bfc2ecbf952a39b436/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/2a3edfe597c399d35992ac3a4a9eb2e5/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/37ce0dd152635e9beb8529e9de7adc10/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b62dec3d183ca781f227beda19af020f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6f5aeb4b6d9311afe2eb6b275ffcc9e2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e905a4912a6a67fbcc08095c7935700a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2e8ff76a5da91497ce7671a8d14a7856/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2385a9517b3dae9062b83f9731cec964/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2f26eaa9ace7fcecf7e78147e6e3dc6a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7a116a02a9ea1a9a8887e95ed56302c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.4.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/timber-4.4.0.aar/8eccb86d0fb533e68fa255d09d3c89fd/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:6:1-43:12
+INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:6:1-43:12
+INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:6:1-43:12
+	package
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:7:5-42
+		INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:6:1-43:12
+		INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:6:1-43:12
+		INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:6:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:11:22-76
+application
+ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:13:5-41:19
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/54fe9093935db485eb30ba9e018639f0/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/54fe9093935db485eb30ba9e018639f0/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/d0908fab66fc56ad96caf647b35b9019/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/d0908fab66fc56ad96caf647b35b9019/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6a08ac8d09ce3f8118bf6ae6e21bce51/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6a08ac8d09ce3f8118bf6ae6e21bce51/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/4a6c67bffa3bb1a9a42909a6b7569734/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/4a6c67bffa3bb1a9a42909a6b7569734/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/d70485e21299b74477a3823fab5c0fb0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/d70485e21299b74477a3823fab5c0fb0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/5c57a0ccc1bf274a0ad274af74e1135e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/5c57a0ccc1bf274a0ad274af74e1135e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:design:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/152416d703ec1dd2ddb8f04702096a75/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/152416d703ec1dd2ddb8f04702096a75/AndroidManifest.xml:22:5-20
+MERGED from [com.github.jkwiecien:EasyImage:2.0.3] /Users/nathan/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/ada7d09e33cc733e520bfcc80cb8a827/AndroidManifest.xml:11:5-21:19
+MERGED from [com.github.jkwiecien:EasyImage:2.0.3] /Users/nathan/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/ada7d09e33cc733e520bfcc80cb8a827/AndroidManifest.xml:11:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nathan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/db8685efc35cb1a2520f3d2f39944bdb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nathan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/db8685efc35cb1a2520f3d2f39944bdb/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/04d4cfc749d9456db00e257cc02c4612/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/04d4cfc749d9456db00e257cc02c4612/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/33e4bdfe023835d80861f0c4a399865a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/33e4bdfe023835d80861f0c4a399865a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43836993978b32c8633f748793738726/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43836993978b32c8633f748793738726/AndroidManifest.xml:22:5-23:19
+MERGED from [com.jakewharton.timber:timber:4.4.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/timber-4.4.0.aar/8eccb86d0fb533e68fa255d09d3c89fd/AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.4.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/timber-4.4.0.aar/8eccb86d0fb533e68fa255d09d3c89fd/AndroidManifest.xml:8:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/33e4bdfe023835d80861f0c4a399865a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:17:9-48
+	android:icon
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:19:9-40
+activity#oak.shef.ac.uk.photomanager.CameraActivity
+ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:20:9-29:20
+	android:label
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:21:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:27:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:30:9-32:55
+	android:value
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:32:13-52
+	android:name
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:31:13-58
+activity#oak.shef.ac.uk.photomanager.ShowImageActivity
+ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:33:9-35:15
+	android:name
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:34:13-46
+activity#oak.shef.ac.uk.photomanager.DetailActivity
+ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:36:9-39:15
+	android:windowSoftInputMode
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:38:13-52
+	android:name
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml:37:13-43
+uses-sdk
+INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/54fe9093935db485eb30ba9e018639f0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/54fe9093935db485eb30ba9e018639f0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/d0908fab66fc56ad96caf647b35b9019/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/d0908fab66fc56ad96caf647b35b9019/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6a08ac8d09ce3f8118bf6ae6e21bce51/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6a08ac8d09ce3f8118bf6ae6e21bce51/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/4a6c67bffa3bb1a9a42909a6b7569734/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/4a6c67bffa3bb1a9a42909a6b7569734/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/d70485e21299b74477a3823fab5c0fb0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/d70485e21299b74477a3823fab5c0fb0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/5c57a0ccc1bf274a0ad274af74e1135e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/5c57a0ccc1bf274a0ad274af74e1135e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/183b686b2a81a5c7fdc5ddffcfb7897d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/183b686b2a81a5c7fdc5ddffcfb7897d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/152416d703ec1dd2ddb8f04702096a75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/152416d703ec1dd2ddb8f04702096a75/AndroidManifest.xml:20:5-44
+MERGED from [com.github.jkwiecien:EasyImage:2.0.3] /Users/nathan/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/ada7d09e33cc733e520bfcc80cb8a827/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jkwiecien:EasyImage:2.0.3] /Users/nathan/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/ada7d09e33cc733e520bfcc80cb8a827/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7ce5bc2b125f3df569e24d134e089aed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7ce5bc2b125f3df569e24d134e089aed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nathan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/db8685efc35cb1a2520f3d2f39944bdb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nathan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/db8685efc35cb1a2520f3d2f39944bdb/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0.aar/af7793ca518825bcad7684b8015c2ceb/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0.aar/af7793ca518825bcad7684b8015c2ceb/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/192b795f9dbd138e32bb908a2d7ab5c6/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/192b795f9dbd138e32bb908a2d7ab5c6/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/04d4cfc749d9456db00e257cc02c4612/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/04d4cfc749d9456db00e257cc02c4612/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/cf7e00532ee736a7e611cd45683ad4b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/cf7e00532ee736a7e611cd45683ad4b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a61fce41d3a42a9cf146dd9728aec33a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a61fce41d3a42a9cf146dd9728aec33a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4ac5384f3dd326b29ce3affa1cf9baaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4ac5384f3dd326b29ce3affa1cf9baaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/07c9b35f30028cba1dc58fbadd67a06e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/07c9b35f30028cba1dc58fbadd67a06e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1d10916c8835bf392b8bdd79774332db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1d10916c8835bf392b8bdd79774332db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0181327c2cf4b6f497cd1ad145eec694/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0181327c2cf4b6f497cd1ad145eec694/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/129dc484670e938fee2d3aea15f4a527/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/129dc484670e938fee2d3aea15f4a527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f6a6ae2d9a093152234e3937accc6f55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f6a6ae2d9a093152234e3937accc6f55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3abe9915d20b67bf382f72cf96577f2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3abe9915d20b67bf382f72cf96577f2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d4dbc659577beb25161ae47d658ee3e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d4dbc659577beb25161ae47d658ee3e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/df6cfc9012902c88b37cd26175d09b73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/df6cfc9012902c88b37cd26175d09b73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bd434101141764716d1e94c61b0c87ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bd434101141764716d1e94c61b0c87ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e6774f7a4b4058f0423a0c21d7ea874a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e6774f7a4b4058f0423a0c21d7ea874a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/45faae1d2a135acd81f8aa20fea1f46d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/45faae1d2a135acd81f8aa20fea1f46d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bb898df6651c7b427a171ca9309e6a06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bb898df6651c7b427a171ca9309e6a06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e40ed3cd42541616cdcb62b8198f6286/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e40ed3cd42541616cdcb62b8198f6286/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/b64319e6e882d31d0f00276c191026c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/b64319e6e882d31d0f00276c191026c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/33e4bdfe023835d80861f0c4a399865a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/33e4bdfe023835d80861f0c4a399865a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43836993978b32c8633f748793738726/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43836993978b32c8633f748793738726/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9364311d76c91def12f6eb105e551d78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9364311d76c91def12f6eb105e551d78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/08908df0edba0600312eebd38a3bd38e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/08908df0edba0600312eebd38a3bd38e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/46993d352a70e2bfc2ecbf952a39b436/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/46993d352a70e2bfc2ecbf952a39b436/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/2a3edfe597c399d35992ac3a4a9eb2e5/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/2a3edfe597c399d35992ac3a4a9eb2e5/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/37ce0dd152635e9beb8529e9de7adc10/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/37ce0dd152635e9beb8529e9de7adc10/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b62dec3d183ca781f227beda19af020f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b62dec3d183ca781f227beda19af020f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6f5aeb4b6d9311afe2eb6b275ffcc9e2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6f5aeb4b6d9311afe2eb6b275ffcc9e2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e905a4912a6a67fbcc08095c7935700a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e905a4912a6a67fbcc08095c7935700a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2e8ff76a5da91497ce7671a8d14a7856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2e8ff76a5da91497ce7671a8d14a7856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2385a9517b3dae9062b83f9731cec964/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2385a9517b3dae9062b83f9731cec964/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2f26eaa9ace7fcecf7e78147e6e3dc6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2f26eaa9ace7fcecf7e78147e6e3dc6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7a116a02a9ea1a9a8887e95ed56302c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7a116a02a9ea1a9a8887e95ed56302c7/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.4.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/timber-4.4.0.aar/8eccb86d0fb533e68fa255d09d3c89fd/AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.4.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/timber-4.4.0.aar/8eccb86d0fb533e68fa255d09d3c89fd/AndroidManifest.xml:6:5-43
+INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nathan/PG_S1/Mobile/COM6510/COM6510/code/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/54fe9093935db485eb30ba9e018639f0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/54fe9093935db485eb30ba9e018639f0/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/54fe9093935db485eb30ba9e018639f0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/54fe9093935db485eb30ba9e018639f0/AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/54fe9093935db485eb30ba9e018639f0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/54fe9093935db485eb30ba9e018639f0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/54fe9093935db485eb30ba9e018639f0/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6a08ac8d09ce3f8118bf6ae6e21bce51/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6a08ac8d09ce3f8118bf6ae6e21bce51/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6a08ac8d09ce3f8118bf6ae6e21bce51/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6a08ac8d09ce3f8118bf6ae6e21bce51/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/5c57a0ccc1bf274a0ad274af74e1135e/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/5c57a0ccc1bf274a0ad274af74e1135e/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/5c57a0ccc1bf274a0ad274af74e1135e/AndroidManifest.xml:24:13-58
+provider#pl.aprilapps.easyphotopicker.ExtendedFileProvider
+ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /Users/nathan/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/ada7d09e33cc733e520bfcc80cb8a827/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /Users/nathan/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/ada7d09e33cc733e520bfcc80cb8a827/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /Users/nathan/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/ada7d09e33cc733e520bfcc80cb8a827/AndroidManifest.xml:14:13-80
+	android:exported
+		ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /Users/nathan/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/ada7d09e33cc733e520bfcc80cb8a827/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /Users/nathan/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/ada7d09e33cc733e520bfcc80cb8a827/AndroidManifest.xml:13:13-77
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /Users/nathan/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/ada7d09e33cc733e520bfcc80cb8a827/AndroidManifest.xml:17:13-19:53
+	android:resource
+		ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /Users/nathan/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/ada7d09e33cc733e520bfcc80cb8a827/AndroidManifest.xml:19:17-50
+	android:name
+		ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /Users/nathan/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/ada7d09e33cc733e520bfcc80cb8a827/AndroidManifest.xml:18:17-67
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/04d4cfc749d9456db00e257cc02c4612/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/04d4cfc749d9456db00e257cc02c4612/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/04d4cfc749d9456db00e257cc02c4612/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/04d4cfc749d9456db00e257cc02c4612/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/nathan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/04d4cfc749d9456db00e257cc02c4612/AndroidManifest.xml:24:13-83

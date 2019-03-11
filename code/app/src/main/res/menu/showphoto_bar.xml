@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  created by Chennan Luo in 2018-2019
+  -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/single_add_to"
+        android:icon="@drawable/ic_add_to"
+        android:title="Add To" />
+
+    <item
+        android:id="@+id/addlike"
+        android:icon="@drawable/like"
+        android:title="like" />
+
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/delete"
+        android:title="delete" />
+
+</menu>

@@ -1,0 +1,4 @@
+#Wed Feb 06 22:37:47 GMT 2019
+base.0=/Users/nathan/Desktop/COM6510/COM6510/code/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex

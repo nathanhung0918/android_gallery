@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  created by Weishi Li in 2018-2019
+  -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_gallery"
+        android:icon="@drawable/gallery"
+        android:title="Gallery" />
+
+    <item
+        android:id="@+id/navigation_album"
+        android:icon="@drawable/album"
+        android:title="Album" />
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/search"
+        android:title="Search" />
+
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/map"
+        android:title="Map" />
+    <item
+        android:id="@+id/delete_all"
+        android:icon="@drawable/delete"
+        android:title="delete" />
+
+</menu>

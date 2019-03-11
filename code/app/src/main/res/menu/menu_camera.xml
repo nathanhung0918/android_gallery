@@ -1,0 +1,44 @@
+<!--
+  ~ Copyright (c) 2017. This code has been developed by Fabio Ciravegna, The University of Sheffield. All rights reserved. No part of this code can be used without the explicit written permission by the author
+  motified by Chennan Luo in 2018-2019
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="oak.shef.ac.uk.photomanager.CameraActivity">
+
+    <item
+        android:id="@+id/add_gallery"
+        android:orderInCategory="80"
+        android:title="add_gallery"
+        android:icon="@drawable/ic_add_2"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/select"
+        android:orderInCategory="90"
+        android:title="Select"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/new_album"
+        android:orderInCategory="100"
+        android:title="new_album"
+        android:icon="@drawable/ic_add"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/edit_album"
+        android:orderInCategory="100"
+        android:title="Edit"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/add_to"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_add_to"
+        android:title="Add To"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/cancel"
+        android:orderInCategory="100"
+        android:title="Cancel"
+        app:showAsAction="ifRoom"/>
+</menu>
